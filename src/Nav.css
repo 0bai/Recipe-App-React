@@ -1,0 +1,27 @@
+.nav {
+    background-color: #252F38;
+    min-height: 55px;
+    max-height: 10%;
+
+}
+
+.nav-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    margin: 10px 15px;
+    font-size: large;
+}
+
+.links {
+    margin: 20px 15px;
+}
+
+.brand {
+    font-size: xx-large;
+}
