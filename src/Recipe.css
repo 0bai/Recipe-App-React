@@ -1,6 +1,7 @@
 .card {
     width: 31%;
     min-width: 240px;
+    max-height: 700px;
     margin: 1%;
     border: 1px solid rgba(160, 160, 160, 0.2);
     background: white;
@@ -9,7 +10,7 @@
 }
 
 .card-content {
-    padding: 16px;
+    padding: 0 16px;
 }
 
 .card-img {
